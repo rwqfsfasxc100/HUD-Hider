@@ -1,0 +1,6 @@
+[package]
+
+id="hev.HudHider"
+name="HUD Hider"
+version="1.0.0"
+description="Adds a configurable toggle that lets you completely hide HUD elements "
